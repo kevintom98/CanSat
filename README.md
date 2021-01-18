@@ -2,6 +2,7 @@
 
 This repository has the code we developed for participating in the International Cansat competiton at Texas, USA ([Visit our page](https://sites.google.com/view/launchpadsjce/home)). 
 The hardware that we designed had the follwing modules used:
+
     1. BMP180 (for measuring pressure and temperature)
     2. Ublox NEO-M8N GPS (for measuring GPS position)
     3. ADXL345 (for measuring pitch and roll)
@@ -9,7 +10,9 @@ The hardware that we designed had the follwing modules used:
     5. DS3231 (for mission time)
     6. Resistors (for measuring battery voltage)
     7. Xbee (for communication with ground station)
+    
 The code was devloped in Arduino IDE and have the following libraries used,
+
     1. SoftwareSerial.h
     2. DS3231.h
     3. Wire.h
