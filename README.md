@@ -26,6 +26,9 @@ The software is able to sample every sensor at **1Hz rate**(1 sample per second)
 we get 1 sample each second(through Xbee). 
 
 ### The data frame format
-The sofware samples every sensor and make the data to a frame that we have designed. The follwing will be the format.
+The sofware samples every sensor and make the data to a frame that we have designed. The follwing will be the format that we used,
 
 TEAM ID,MISSION TIME,PACKET COUNT,ALTITUDE,PRESSURE,TEMP,VOLTAGE,GPS TIME,GPS LATITUDE,GPS LONGITUDE,GPS ALTITUDE,GPS SATS,PITCH,ROLL,BLADE SPIN RATE,SOFTWARE STATE
+
+
+For more details you can contact me at kevintom98@gmail.com
