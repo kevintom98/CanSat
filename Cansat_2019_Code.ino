@@ -5,7 +5,7 @@
  * Sharanya Krishnamurthy
  * 
  * 
- * The software is able to sample every sensor at 1Hz rate(1 sample per second) and relay it back to ground station. So at the gorund station,
+ * The software is able to sample every sensor at 1Hz rate(1 sample per second) and relay it back to ground station. So at the ground station,
     we get 1 sample each second(through Xbee).
  * 
  * Contact : kevintom98@gmail.com
